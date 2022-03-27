@@ -1,0 +1,13 @@
+# YOLOv5 🚀 by Ultralytics, GPL-3.0 license
+
+
+#path: ../datasets/coco128  # dataset root dir
+train: ../train_data/images/train/  # train images (relative to 'path') 
+val: ../train_data/images/val/  # val images (relative to 'path') 
+test:  # test images (optional)
+
+# Classes
+nc: 1  # number of classes
+names: ['P']  # class names
+
+
